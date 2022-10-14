@@ -5,7 +5,7 @@ Segue a página principal do site, onde é possível ter acesso a visão geral d
 <img src="https://github.com/Eliane-Santiago/Site-Vagas/blob/main/Site-Vagas/imagens/img1.png"/>
 <br/><br/>
 
-Segue página de editar o cadastro das vagas, para ter acesso a essa página é só clicar no editar que fica na página principal do site. Nessa Tela é só fazer a edição que deseja no título da vaga, descrição da vaga, status da vaga e despois clicar no botão Enviar para salvar as alterações realizadas.
+Segue página de editar o cadastro das vagas, para ter acesso a essa página é só clicar no Botão Editar que fica na página principal do site. Nessa Tela é só fazer a edição que deseja no título da vaga, descrição da vaga, status da vaga e despois clicar no botão Enviar para salvar as alterações realizadas.
 <br/><br/>
 <img src="https://github.com/Eliane-Santiago/Site-Vagas/blob/main/Site-Vagas/imagens/img2.png"/>
 <br/><br/>
