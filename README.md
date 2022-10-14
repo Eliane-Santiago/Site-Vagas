@@ -28,5 +28,5 @@ Segue página de excluir cadastro das vagas, para ter acesso a essa página é s
 Para usar essa aplicação é só fazer o dowload do repositório e abrir o arquivo index.hmtl no navegador de sua preferência
 
 ## Considerações finais
-Esse projeto não é criação minha mas são recursos aprendido no canal WDev, onde realizei pequenas modificações na página principal e página de exclusão de vagas pois estava tendo quebra de layout nas campos título e descrição da vaga.
+Esse projeto não é criação minha mas são recursos aprendido no canal WDev professor William Costa, onde realizei pequenas modificações na página principal e página de exclusão de vagas pois estava tendo quebra de layout nas campos título e descrição da vaga. Sou muito grata pelos conteúdos aprendido nesse projeto.
 
