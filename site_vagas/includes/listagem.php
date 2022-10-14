@@ -20,8 +20,8 @@
    foreach($vagas as $vaga){
       $resultados.='<tr>
                      <td>'.$vaga->id.'</td>
-                     <td>'.$vaga->titulo.'</td>
-                     <td>'.$vaga->descricao.'</td>
+                     <td><textarea rows="3" cols="30" class="border border-0 form-group">'.$vaga->titulo.'</textarea></td>
+                     <td><textarea rows="3" cols="50" class="border border-0 form-group">'.$vaga->descricao.'</textarea></td>
                      <td>'.($vaga->ativo == 's' ? 'Ativo' : 'Inativo').'</td>
                      <td>'.date('d/m/y à\s H:i:s',strtotime($vaga->data)).'</td>
                      <td>

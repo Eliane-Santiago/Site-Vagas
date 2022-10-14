@@ -4,7 +4,7 @@
 
    <form method="post">
         <div class="form-group">
-            <p>Você deseja realmente excluir a vaga <strong><?=$obVaga->titulo?></strong>?</p>
+            <p>Você deseja realmente excluir a vaga <strong><textarea rows="2" cols="80" class="border border-0"><?=$obVaga->titulo?></textarea></strong>?</p>
         </div>
 
         <div class="form-group d-grid gap-2 d-md-flex justify-content-md">
