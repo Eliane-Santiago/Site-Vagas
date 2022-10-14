@@ -1,4 +1,4 @@
 # Site-Vagas
 Site de Vagas de Emprego
 
-<img imagens/img1.png />
+<img src="https://github.com/Eliane-Santiago/Site-Vagas/tree/main/Site-Vagas/imagens"/>
